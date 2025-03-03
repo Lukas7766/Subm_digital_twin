@@ -1,0 +1,151 @@
+2025-02-27 02:19:44 INFO  EventLogger - Received Event: PrintStarted
+2025-02-27 02:19:44 INFO  EventLogger - Print started with payload: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"octo"}
+2025-02-27 02:19:44 INFO  EventLogger - Extracted file name: small_Duck.gcode
+2025-02-27 02:22:23 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 02:22:23 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 02:22:23 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 02:22:23 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 02:22:23 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 02:22:23 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 02:22:38 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 02:22:38 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 0.28
+2025-02-27 02:22:38 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 02:22:38 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 02:22:38 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 02:22:38 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 02:22:38 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 02:22:38 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 02:22:38 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 13:32:37 INFO  EventLogger - Received Event: PrintStarted
+2025-02-27 13:32:37 INFO  EventLogger - Print started with payload: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"octo"}
+2025-02-27 13:32:37 INFO  EventLogger - Extracted file name: small_Duck.gcode
+2025-02-27 13:34:07 INFO  EventLogger - Received Event: PrintFailed
+2025-02-27 13:34:07 WARN  EventLogger - Print failed: {"owner":"octo","path":"small_Duck.gcode","reason":"","size":"234802","origin":"local","name":"small_Duck.gcode","time":"cancelled","user":"90.34686881897505"}
+2025-02-27 13:34:11 INFO  EventLogger - Received Event: PrintStarted
+2025-02-27 13:34:11 INFO  EventLogger - Print started with payload: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"octo"}
+2025-02-27 13:34:11 INFO  EventLogger - Extracted file name: small_Duck.gcode
+2025-02-27 13:36:24 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 13:36:24 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 13:36:24 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 13:36:24 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 13:36:24 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 13:36:24 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 13:36:39 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 13:36:39 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 0.28
+2025-02-27 13:36:39 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 13:36:39 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 13:36:39 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 13:36:39 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 13:36:39 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 13:36:39 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 13:36:39 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 13:37:06 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 13:37:06 INFO  EventLogger - Received Position Update - X: 117.1, Y: 114.83, Z: 20.2
+2025-02-27 13:37:06 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 14:35:19 INFO  EventLogger - Received Event: PrintStarted
+2025-02-27 14:35:19 INFO  EventLogger - Print started with payload: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"octo"}
+2025-02-27 14:35:19 INFO  EventLogger - Extracted file name: small_Duck.gcode
+2025-02-27 14:39:00 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 14:39:00 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 14:39:00 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 14:39:00 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 14:39:00 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 14:39:00 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 14:39:15 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 14:39:15 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 0.28
+2025-02-27 14:39:15 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 14:39:15 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 14:39:15 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 14:39:15 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 14:39:15 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 14:39:15 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 14:39:15 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 14:45:38 INFO  EventLogger - Received Event: PrintDone
+2025-02-27 14:45:38 INFO  EventLogger - Timelapse generation started for Job ID: 10
+2025-02-27 17:14:21 INFO  EventLogger - Received Event: PrintStarted
+2025-02-27 17:14:21 INFO  EventLogger - Print started with payload: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"octo"}
+2025-02-27 17:14:21 INFO  EventLogger - Extracted file name: small_Duck.gcode
+2025-02-27 17:16:36 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 17:16:36 INFO  EventLogger - Received Position Update - X: 0.0, Y: 235.0, Z: 19.6
+2025-02-27 17:16:36 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 17:19:08 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 17:19:08 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 17:19:08 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 17:19:08 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 17:19:08 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 17:19:08 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 17:19:22 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 17:19:22 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 0.28
+2025-02-27 17:19:22 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 17:19:22 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 17:19:22 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 17:19:22 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 17:19:22 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 17:19:22 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 17:19:22 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 17:25:46 INFO  EventLogger - Received Event: PrintDone
+2025-02-27 17:25:47 INFO  EventLogger - Timelapse generation started for Job ID: 11
+2025-02-27 21:11:43 INFO  EventLogger - Received Event: PrintStarted
+2025-02-27 21:11:43 INFO  EventLogger - Print started with payload: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"octo"}
+2025-02-27 21:11:43 INFO  EventLogger - Extracted file name: small_Duck.gcode
+2025-02-27 21:13:58 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:13:58 INFO  EventLogger - Received Position Update - X: 0.0, Y: 235.0, Z: 19.6
+2025-02-27 21:13:58 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 21:25:58 INFO  EventLogger - Received Event: PrintResumed
+2025-02-27 21:25:58 INFO  EventLogger - Print resumed: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"_api"}
+2025-02-27 21:25:58 INFO  EventLogger - Photo capturing resumed after print resume (Config enabled).
+2025-02-27 21:28:28 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:28:28 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 21:28:28 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 21:28:28 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:28:28 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 21:28:28 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 21:28:42 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:28:42 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 0.28
+2025-02-27 21:28:42 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 21:28:43 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:28:43 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 21:28:43 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 21:28:43 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:28:43 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 21:28:43 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 21:29:15 INFO  EventLogger - Received Event: PrintFailed
+2025-02-27 21:29:15 WARN  EventLogger - Print failed: {"owner":"octo","path":"small_Duck.gcode","reason":"","size":"234802","origin":"local","name":"small_Duck.gcode","time":"cancelled","user":"298.3053191449726"}
+2025-02-27 21:29:44 INFO  EventLogger - Received Event: PrintStarted
+2025-02-27 21:29:44 INFO  EventLogger - Print started with payload: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"octo"}
+2025-02-27 21:29:44 INFO  EventLogger - Extracted file name: small_Duck.gcode
+2025-02-27 21:32:20 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:32:20 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:32:20 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 21:32:20 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-27 21:32:20 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 21:32:20 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 21:32:34 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:32:34 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 0.28
+2025-02-27 21:32:34 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 21:32:34 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:32:34 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 21:32:34 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 21:32:34 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:32:34 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 2.0
+2025-02-27 21:32:34 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-27 21:38:57 INFO  EventLogger - Received Event: PrintDone
+2025-02-27 21:38:57 INFO  EventLogger - Timelapse generation started for Job ID: 13
+2025-02-27 21:53:08 INFO  EventLogger - Received Event: PrintStarted
+2025-02-27 21:53:08 INFO  EventLogger - Print started with payload: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"octo"}
+2025-02-27 21:53:08 INFO  EventLogger - Extracted file name: small_Duck.gcode
+2025-02-27 21:53:44 INFO  EventLogger - Received Event: ClientClosed
+2025-02-27 21:53:44 WARN  EventLogger - Client disconnected: {"remoteAddress":"192.168.0.108"}
+2025-02-27 21:53:44 INFO  EventLogger - Received Event: UserLoggedIn
+2025-02-27 21:53:44 INFO  EventLogger - User logged in: {"username":"octo"}
+2025-02-27 21:53:44 INFO  EventLogger - Received Event: UserLoggedIn
+2025-02-27 21:53:44 INFO  EventLogger - User logged in: {"username":"octo"}
+2025-02-27 21:53:44 INFO  EventLogger - Received Event: ClientConnected
+2025-02-27 21:53:44 WARN  EventLogger - Unhandled event: ClientConnected
+2025-02-27 21:53:44 INFO  EventLogger - Received Event: UserLoggedIn
+2025-02-27 21:53:44 INFO  EventLogger - User logged in: {"username":"octo"}
+2025-02-27 21:53:45 INFO  EventLogger - Received Event: ClientAuthed
+2025-02-27 21:53:45 INFO  EventLogger - Client authenticated: {"remoteAddress":"192.168.0.108","username":"octo"}
+2025-02-27 21:54:36 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-27 21:54:36 INFO  EventLogger - Received Position Update - X: 0.0, Y: 235.0, Z: 19.6
+2025-02-27 21:54:36 WARN  EventLogger - Unhandled event: PositionUpdate

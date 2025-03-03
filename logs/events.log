@@ -1,0 +1,27 @@
+2025-02-28 12:32:32 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-28 12:32:32 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-28 12:32:32 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-28 12:32:32 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-28 12:32:32 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-28 12:32:32 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-28 12:32:47 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-28 12:32:47 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 0.28
+2025-02-28 12:32:47 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-28 13:01:52 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-28 13:01:52 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-28 13:01:52 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-28 13:01:52 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-28 13:01:52 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-28 13:01:52 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-28 13:02:07 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-28 13:02:07 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 0.28
+2025-02-28 13:02:07 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-28 15:32:41 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-28 15:32:41 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-28 15:32:41 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-28 15:32:41 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-28 15:32:41 INFO  EventLogger - Received Position Update - X: 117.0, Y: 117.0, Z: 10.0
+2025-02-28 15:32:41 WARN  EventLogger - Unhandled event: PositionUpdate
+2025-02-28 15:32:55 INFO  EventLogger - Received Event: PositionUpdate
+2025-02-28 15:32:55 INFO  EventLogger - Received Position Update - X: 10.4, Y: 20.0, Z: 0.28
+2025-02-28 15:32:55 WARN  EventLogger - Unhandled event: PositionUpdate

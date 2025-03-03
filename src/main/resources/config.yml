@@ -1,0 +1,35 @@
+logging:
+  temperature_interval: 1
+  photo_interval: 30 # seconds
+  stream_url: "http://192.168.0.106:8080"
+  save_path: "src/main/java/com/digitwin/digitaltwin/timelapse/ID"
+  pause_photo_on_print_pause: true
+
+gcode:
+  storage:
+    path: "src/main/java/com/digitwin/digitaltwin/gcode_files"
+
+timelapse:
+  enabled: true
+  file_format: "mp4"
+
+error_detection:
+  enable: true
+  max_pause_duration: 8 # hours
+  nozzle_temp_max: 280
+  nozzle_temp_min: 150
+  material_profiles:
+    PLA:
+      min_temp: 180
+      max_temp: 220
+    ABS:
+      min_temp: 220
+      max_temp: 250
+    PETG:
+      min_temp: 200
+      max_temp: 245
+  notify:
+    enable_email: true
+    enable_whatsapp: false
+    email_recipients: "lukas@wurzer.cc"
+    whatsapp_recipients: "+436765770702"

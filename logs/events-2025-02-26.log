@@ -1,0 +1,9 @@
+2025-02-26 23:02:54 INFO  EventLogger - Received Event: PrintStarted
+2025-02-26 23:02:54 INFO  EventLogger - Print started with payload: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"octo"}
+2025-02-26 23:02:54 INFO  EventLogger - Extracted file name: small_Duck.gcode
+2025-02-26 23:15:32 INFO  EventLogger - Received Event: PrintStarted
+2025-02-26 23:15:32 INFO  EventLogger - Print started with payload: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"octo"}
+2025-02-26 23:15:32 INFO  EventLogger - Extracted file name: small_Duck.gcode
+2025-02-26 23:28:02 INFO  EventLogger - Received Event: PrintStarted
+2025-02-26 23:28:02 INFO  EventLogger - Print started with payload: {"owner":"octo","path":"small_Duck.gcode","size":"234802","origin":"local","name":"small_Duck.gcode","user":"octo"}
+2025-02-26 23:28:02 INFO  EventLogger - Extracted file name: small_Duck.gcode
